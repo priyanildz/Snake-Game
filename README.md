@@ -39,16 +39,16 @@ The player controls the snake using arrow keys, eats food to grow, and avoids co
 
 | Key | Action |
 |-----|--------|
-| ⬆️ Up Arrow | Move Up |
-| ⬇️ Down Arrow | Move Down |
-| ⬅️ Left Arrow | Move Left |
-| ➡️ Right Arrow | Move Right |
-| ❌ Close Window | Exit Game |
+| Up Arrow | Move Up |
+| Down Arrow | Move Down |
+| Left Arrow | Move Left |
+| Right Arrow | Move Right |
+| Close Window | Exit Game |
 
 ---
 
 
-## 📦 Installation & Run
+## Installation & Run
 
 ### 1. Clone the repository
 ```bash
