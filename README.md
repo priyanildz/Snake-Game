@@ -40,7 +40,7 @@ The objective is to survive as long as possible without colliding with the walls
 
 | Gameplay | 
 |----------|
-| <img src="assets/output.png" width="1000"/> | 
+| <img src="output.png" width="1000"/> | 
 
 </div>
 
