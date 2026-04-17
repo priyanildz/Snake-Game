@@ -38,9 +38,9 @@ The objective is to survive as long as possible without colliding with the walls
 
 <div align="center">
 
-| Game |
-|----------|
-| <img src="assets/output.png" width="400"/> |
+| Gameplay | Game Over |
+|----------|-----------|
+| <img src="assets/gameplay.png" width="400"/> | <img src="assets/gameover.png" width="400"/> |
 
 </div>
 
