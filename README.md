@@ -40,7 +40,7 @@ The objective is simple:
 
 <div align="center">
 
-<img src="assets/output.png" width="700"/>
+<img src="output.png" width="900"/>
 
 </div>
 
